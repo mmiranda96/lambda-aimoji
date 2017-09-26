@@ -1,0 +1,16 @@
+Emoción,Tono,Valor
+Alegria,Positivo,0.80
+Amor,Positivo,0.70
+Dependencia,Neutro,0.40
+Ansiedad,Neutro,0.60
+Interes,Neutro,0.50
+Sorpresa,Neutro,0.50
+Ira,Negativo,0.90
+Miedo,Negativo,0.80
+Disgusto,Negativo,0.60
+Tristeza,Negativo,0.70
+Rencor,Negativo,0.60
+Panico,Negativo,0.50
+Mania,Negativo,0.30
+Depresion,Negativo,0.60
+Paranoia,Negativo,0.70
