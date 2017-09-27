@@ -1,8 +1,8 @@
-# Emoji
+# AImoji
 ## Team Lambda
 
 ### Description
-Emoji is an algorithm that detects emotions in emoji-based text.
+AImoji is an algorithm that detects emotions in emoji-based text.
 
 ### Team members
 A01377515 - Pablo Alejandro Sánchez Tadeo  
